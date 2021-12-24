@@ -1,0 +1,15 @@
+C:\Users\hpPavilion\Desktop\Metrodev\Clase2\C2EjerciciosLINQ\bin\Debug\net6.0\C2EjerciciosLINQ.exe
+C:\Users\hpPavilion\Desktop\Metrodev\Clase2\C2EjerciciosLINQ\bin\Debug\net6.0\C2EjerciciosLINQ.deps.json
+C:\Users\hpPavilion\Desktop\Metrodev\Clase2\C2EjerciciosLINQ\bin\Debug\net6.0\C2EjerciciosLINQ.runtimeconfig.json
+C:\Users\hpPavilion\Desktop\Metrodev\Clase2\C2EjerciciosLINQ\bin\Debug\net6.0\C2EjerciciosLINQ.dll
+C:\Users\hpPavilion\Desktop\Metrodev\Clase2\C2EjerciciosLINQ\bin\Debug\net6.0\ref\C2EjerciciosLINQ.dll
+C:\Users\hpPavilion\Desktop\Metrodev\Clase2\C2EjerciciosLINQ\bin\Debug\net6.0\C2EjerciciosLINQ.pdb
+C:\Users\hpPavilion\Desktop\Metrodev\Clase2\C2EjerciciosLINQ\obj\Debug\net6.0\C2EjerciciosLINQ.csproj.AssemblyReference.cache
+C:\Users\hpPavilion\Desktop\Metrodev\Clase2\C2EjerciciosLINQ\obj\Debug\net6.0\C2EjerciciosLINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hpPavilion\Desktop\Metrodev\Clase2\C2EjerciciosLINQ\obj\Debug\net6.0\C2EjerciciosLINQ.AssemblyInfoInputs.cache
+C:\Users\hpPavilion\Desktop\Metrodev\Clase2\C2EjerciciosLINQ\obj\Debug\net6.0\C2EjerciciosLINQ.AssemblyInfo.cs
+C:\Users\hpPavilion\Desktop\Metrodev\Clase2\C2EjerciciosLINQ\obj\Debug\net6.0\C2EjerciciosLINQ.csproj.CoreCompileInputs.cache
+C:\Users\hpPavilion\Desktop\Metrodev\Clase2\C2EjerciciosLINQ\obj\Debug\net6.0\C2EjerciciosLINQ.dll
+C:\Users\hpPavilion\Desktop\Metrodev\Clase2\C2EjerciciosLINQ\obj\Debug\net6.0\ref\C2EjerciciosLINQ.dll
+C:\Users\hpPavilion\Desktop\Metrodev\Clase2\C2EjerciciosLINQ\obj\Debug\net6.0\C2EjerciciosLINQ.pdb
+C:\Users\hpPavilion\Desktop\Metrodev\Clase2\C2EjerciciosLINQ\obj\Debug\net6.0\C2EjerciciosLINQ.genruntimeconfig.cache
